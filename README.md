@@ -18,7 +18,7 @@ Perfect for beginners learning: Tokenization, POS Tagging, NER, Dependency Parsi
 - ⚡ **FastAPI Backend**
 - 🎓 **Kaggle Notebook Included**
 
----
+
 
 # 📁 Folder Structure
 
@@ -39,7 +39,7 @@ spacy_nlp_analyzer/
 
 ````
 
----
+
 
 # 🧪 Kaggle Notebook Setup
 
@@ -50,7 +50,7 @@ Run this in Kaggle notebook:
 !python -m spacy download en_core_web_sm
 ````
 
----
+
 
 # ⚙️ Local Installation (VS Code)
 
