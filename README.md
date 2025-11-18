@@ -81,15 +81,15 @@ http://127.0.0.1:8000/ui
 
 ### 🔍 Text Input Page
 
-![Input UI](examples/input.png)
+![Input UI](.examples/input.png)
 
 ### 🧠 NLP Output Page
 
-![Output UI](examples/output.png)
+![Output UI](.examples/output.png)
 
 ### 🧠 Inter Relation Page
 
-![Relationship](examples/Relation.png)
+![Relationship](.examples/Relation.png)
 
 
 ---
