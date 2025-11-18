@@ -1,10 +1,10 @@
 
-```md
+
 # 🌐 SpaCy NLP Analyzer  
 A complete end-to-end NLP learning + deployment project powered by **SpaCy**, **FastAPI**, and **Bootstrap UI**.  
 Perfect for beginners learning: Tokenization, POS Tagging, NER, Dependency Parsing, Lemmatization, Stopword Removal.
 
----
+
 
 # 🚀 Features
 
@@ -23,7 +23,7 @@ Perfect for beginners learning: Tokenization, POS Tagging, NER, Dependency Parsi
 # 📁 Folder Structure
 
 ```
-
+repo/
 spacy_nlp_analyzer/
 │
 ├── notebooks/
@@ -92,7 +92,7 @@ http://127.0.0.1:8000/ui
 ![Relationship](example/Relation.png)
 
 
----
+
 
 # 🧩 API Endpoints
 
@@ -108,7 +108,7 @@ http://127.0.0.1:8000/ui
 
 Interactive browser UI.
 
----
+
 
 # 🛠️ Tech Stack
 
@@ -118,19 +118,19 @@ Interactive browser UI.
 * Bootstrap 5 UI
 * Uvicorn Server
 
----
+
 
 # 👨‍💻 Author
 
 Designed & developed by **Vinod Singh**, 2025.
 
----
+
 
 # ⭐ If you like this repo, give it a star!
 
-```
 
----
+
+
 
 # 🎉 You're ready to publish this on GitHub!
 
@@ -143,5 +143,5 @@ If you want, I can also generate:
 - A **dark mode UI theme**  
 
 Just tell me — **what should we add next?**
-```
+
 
